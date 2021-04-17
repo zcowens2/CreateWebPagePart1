@@ -1,10 +1,10 @@
 # Website Development Project
 ## Part one - create your home page.
-Ceate a home page that includes info about you and contains links to various projects.  Your page shpuld include:
+Ceate a home page that includes info about you and contains links to various projects.  Your page should include:
 - Title: This will be what id on the browser tab
 - Header 1: The title of the page that shows up ON the page
 - Header 2: The first paragraph title
-- Paragraph(s): The first content (this should be a bit about yourself). Use <br> where desired.
+- Paragraph(s): The first content (this should be a bit about yourself). Use page breaks where desired.
 - Header 3: The title of the seconf paragraph group
 - Paragraph(s): More content related to the projects
 - Header 4: Links to Projects
