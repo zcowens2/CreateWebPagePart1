@@ -5,7 +5,7 @@ Ceate a home page that includes info about you and contains links to various pro
 - Header 1: The title of the page that shows up ON the page
 - Header 2: The first paragraph title
 - Paragraph(s): The first content (this should be a bit about yourself). Use page breaks where desired.
-- Header 3: The title of the seconf paragraph group
+- Header 3: The title of the second paragraph group
 - Paragraph(s): More content related to the projects
 - Header 4: Links to Projects
 -- Link 1: with an explanation of why you chose it
