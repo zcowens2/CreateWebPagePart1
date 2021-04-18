@@ -1,5 +1,7 @@
-# Website Development Project
-## Part one - create your home page.
+Website Development Project
+=
+Part one - create your home page.
+-
 Ceate a home page that includes info about you and contains links to various projects.  Your page should include:
 - Title: This will be what is written on the browser tab
 - Header 1: The title of the page that shows up ON the page
@@ -8,9 +10,9 @@ Ceate a home page that includes info about you and contains links to various pro
 - Header 3: The title of the second paragraph group
 - Paragraph(s): More content related to the projects
 - Header 4: Links to Projects
--- Link 1: with an explanation of why you chose it
--- Link 2: with an explanation of why you chose it
--- Link 3: with an explanation of why you chose it
+  * Link 1: with an explanation of why you chose it
+  * Link 2: with an explanation of why you chose it
+  * Link 3: with an explanation of why you chose it
 
 Use pictures to support your content.  It could be a picture of you (or of something that says something about you).  Use an actual picture that you have taken, not someting downloaded from the web.
 
