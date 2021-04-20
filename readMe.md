@@ -16,4 +16,4 @@ Ceate a home page that includes info about you and contains links to various pro
 
 Use pictures to support your content.  It could be a picture of you (or of something that says something about you).  Use an actual picture that you have taken, not someting downloaded from the web.
 
-We will discuss how to create web pages for your existing projects during the next class.  So, create the space and code for the links to your projects and we will fill that in after you learn to create the pages. 
+We will discuss how to create web pages for your existing p5.js projects during the next class.  So, create the space and code for the links to your projects and we will fill that in after you learn to create the pages. 
